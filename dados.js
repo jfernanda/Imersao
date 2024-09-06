@@ -1,18 +1,21 @@
 let dados = [
     {
-        nome : "Rayssa Leal",
-        descricao : "Rayssa Leal, a Fadinha, é uma das maiores promessas do skate mundial. Ela já conquistou diversos títulos e se tornou um ícone para a nova geração de skatistas. Sua habilidade e carisma a tornaram uma das atletas mais populares do Brasil.",
-        link : "https://pt.wikipedia.org/wiki/Rayssa_Leal"
+        nome: "Rayssa Leal",
+        descricao: "A Fadinha, é uma das maiores promessas do skate mundial. Ela já conquistou diversos títulos e se tornou um ícone para a nova geração de skatistas. Sua habilidade e carisma a tornaram uma das atletas mais populares do Brasil.",
+        link: "https://pt.wikipedia.org/wiki/Rayssa_Leal",
+        tags: "skate fada sk8"
     },
     {
-        nome : "Rebeca Andrade",
-        descricao : "Rebeca Andrade é um ícone do esporte brasileiro, especialmente da ginástica artística. Com um talento inegável e uma determinação admirável, ela conquistou o coração dos brasileiros e se tornou a maior medalhista olímpica da história do país. Suas conquistas, como o ouro no salto e a prata no individual geral nos Jogos Olímpicos de Tóquio, inspiraram uma nova geração de atletas e consolidaram seu lugar na história do esporte.",
-        link : "https://pt.wikipedia.org/wiki/Rebeca_Andrade"
+        nome: "Rebeca Andrade",
+        descricao: "Rebeca Andrade é um ícone do esporte brasileiro, especialmente da ginástica artística. Com um talento inegável e uma determinação admirável, ela conquistou o coração dos brasileiros e se tornou a maior medalhista olímpica da história do país. Suas conquistas, como o ouro no salto e a prata no individual geral nos Jogos Olímpicos de Tóquio, inspiraram uma nova geração de atletas e consolidaram seu lugar na história do esporte.",
+        link: "https://pt.wikipedia.org/wiki/Rebeca_Andrade",
+        tags: "ginastica ginasta ginástica ouro"
     },
     {
-        nome : "Beatriz Souza",
-        descricao : "Beatriz Souza é uma judoca brasileira que se destacou nos Jogos Olímpicos. Com sua técnica apurada e determinação, ela conquistou a medalha e se tornou um exemplo para jovens atletas. Sua trajetória inspiradora mostra a força e a perseverança do esporte brasileiro.",
-        link : "https://pt.wikipedia.org/wiki/Beatriz_Souza"
+        nome: "Beatriz Souza",
+        descricao: "Beatriz Souza é uma judoca brasileira que se destacou nos Jogos Olímpicos. Com sua técnica apurada e determinação, ela conquistou a medalha e se tornou um exemplo para jovens atletas. Sua trajetória inspiradora mostra a força e a perseverança do esporte brasileiro.",
+        link: "https://pt.wikipedia.org/wiki/Beatriz_Souza",
+        tags: "judô judo"
     }
 ];
 
